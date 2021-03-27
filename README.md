@@ -11,3 +11,4 @@ this is something going on.
 
 talking about features
 P.S: ask laura to add her own paragrpah
+P.S: let someone add instructions.txt
