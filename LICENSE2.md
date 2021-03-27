@@ -1,2 +1,2 @@
-#License 2
-## APACHE 3.0
+# License 2
+this is intro of license 2
