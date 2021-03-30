@@ -17,3 +17,4 @@ P.S: let someone add instructions.txt
 
 i'm editing from feature-2 branch
 last edit from feature-2
+updates from master GitHub
