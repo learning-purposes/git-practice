@@ -1,6 +1,6 @@
-# Demo Project
+# Getting Started
 
-this is a simple readme file
+clone the project then do nothing.
 
 ## Heading 2
 
@@ -20,3 +20,7 @@ last edit from feature-2
 updates from master GitHub
 
 updates from the local master
+
+##### Heading 5
+
+editing from dev
