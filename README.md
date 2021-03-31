@@ -1,6 +1,6 @@
-# Demo Project
+# Getting Started
 
-this is a simple readme file
+clone the project then do nothing.
 
 ## Heading 2
 
